@@ -1,5 +1,1 @@
-[
-  { "id": 1, "name": "Kalogs", "age": 19, "power": "Monster" },
-  { "id": 2, "name": "Jubileia", "age": 99, "power": "Ancient" },
-  { "id": 3, "name": "Josias", "age": 13, "power": "Pivete chato" }
-]
+[{"id":1,"name":"Kalogs","age":19,"power":"Monster"},{"id":2,"name":"Jubileia","age":99,"power":"Ancient"},{"id":3,"name":"Josias","age":13,"power":"Pivete chato"},{"id":1634044346355,"name":"Chapolin","age":101,"power":"strength"},{"id":1634044579172,"name":"Chapolin","age":101,"power":"strength"},{"id":1634044694879,"name":"Chapolin","age":101,"power":"strength"},{"id":1634044713718,"name":"Chapolin","age":101,"power":"strength"}]
